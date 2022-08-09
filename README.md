@@ -135,3 +135,8 @@ Get-запрос на адрес `http://127.0.0.1:8000/api/v1/posts/`.
 } 
 ```
 Для GET-запроса доступен поиск автора среди подписок.
+##Технологии
+- python
+- django
+## Автор
+https://github.com/AlexeyTikhonchuk
